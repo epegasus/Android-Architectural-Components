@@ -1,2 +1,6 @@
-# android_architectural_components
-ViewModel+RoomDatabase+Dao+Repository
+# Android Architectural Components
+
+- ViewModel
+- RoomDatabase
+- Dao
+- Repository
